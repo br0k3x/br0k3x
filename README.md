@@ -1,7 +1,7 @@
 # ✨👋 Hey!
 I'm br0kE, a full stack developer!
 Currently working on nothing, I'm willing to collaborate or contribute to a project!
-## Contact: 📞
+## 📞📱 Contact:
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:br0ke07@proton.me) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1350452524196429958)  
 Also reachable via another email: hey@br0k3.me, but currently down.
 ## 💻✌️ I use:
