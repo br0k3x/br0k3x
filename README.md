@@ -2,7 +2,7 @@
 I'm br0kE, a full stack developer!
 Currently working on.... nothing at the moment!
 # Contact: 📞
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)(mailto:br0ke07@proton.me) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:br0ke07@proton.me) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
 <!--
 **br0k3x/br0k3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
